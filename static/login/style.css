@@ -218,6 +218,10 @@ form.sign-in-form {
   font-weight: 600;
   font-size: 0.8rem;
 }
+button#sign-up-btn:hover {
+  background: white;
+  color: #378def;
+}
 
 .right-panel .image,
 .right-panel .content {
